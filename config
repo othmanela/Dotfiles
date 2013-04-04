@@ -1,0 +1,5 @@
+Host eniac 
+Hostname eniac.seas.upenn.edu 
+User othmanel 
+IdentityFile /home/othmane/.ssh/id_rsa
+
